@@ -25,11 +25,6 @@ The `login_detector` repository provides a Python-based tool to monitor and dete
    cd login_detector
    ```
 
-3. Install required dependencies (if any). Check for a `requirements.txt` file and install dependencies using:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 Run the script manually using Python:
